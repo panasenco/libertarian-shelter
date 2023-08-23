@@ -115,10 +115,10 @@ As explained above, a great educational experience can't be created by pleasing 
 
   And includes the following new subjects:
   - Psychology of manipulation and control
-  - Game theory
+  - Game theory (how to create game rules that benefit you in non-obvious ways)
   - Financial mathematics
   - Economics
-- **Creativity**
+- **Creativity.**
   Creating things that do what you want them to do is *hard*.
   Regardless of whether you're creating a painting, a mechanism, a computer program, a book, or a song, brushing up against greatness feels like doing battle against the universe.
   Students will be guided in creating what they want to create.
@@ -135,7 +135,7 @@ As explained above, a great educational experience can't be created by pleasing 
   - Wood working
   - 3D printing
   - Electronics lab
-- **Wellness**
+- **Wellness.**
   The heart of this pillar is to create a foundation of knowledge about personall wellness as well as experience of achieving it that can last the student's whole lifetime.
   Students must somehow be taught how to *want* to eat well and *want* to stay fit.
   More than that, students must be taught to love their own bodies and not be scared of them.
