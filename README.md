@@ -1,4 +1,4 @@
-# sol-citizen
+# Sol Citizen
 An uncompromising general education curriculum
 
 ## Tests consume education
@@ -96,3 +96,57 @@ Instead, questions should be designed with a bias towards innovation. For exampl
 - Is this lesson bland and/or soul-crushing?
 - Does this lesson uplift the students' spirits?
 - Is the heart of this lesson a new and interesting way to think about the world?
+
+## The Sol Citizen curriculum pillars
+
+With all of the above in mind, let's create an innovative curriculum that throws out the soul-crushing and conservative approaches of education, and instead focuses on viewing students as human beings, not machines.
+
+The following will be the pillars of our new curriculum.
+Most people will probably vehemently object to at least one of these, but that's by design.
+As explained above, a great educational experience can't be created by pleasing everyone.
+- **Psychology and game theory.**
+  The heart of this pillar is to create adults that won't lose heart when encountering organizational, cultural, and legal obstacles.
+  Students will play games and gain first-hand experiences with how individual psychology and organizational rules can kill the human spirit, like we discussed above.
+  They'll also learn how those who make the rules of the game can attain ever-greater power and wealth and exercise ever-greater control and manipulation.
+  Of course, they'll also learn how to counteract these factors and where to strike to shatter these systems.
+  This pillar subsumes the following 'classic' subjects:
+  - History
+  - Geography (the terror of geo-guessing, anyone?)
+
+  And includes the following new subjects:
+  - Psychology of manipulation and control
+  - Game theory
+  - Financial mathematics
+  - Economics
+- **Creativity**
+  Creating things that do what you want them to do is *hard*.
+  Regardless of whether you're creating a painting, a mechanism, a computer program, a book, or a song, brushing up against greatness feels like doing battle against the universe.
+  Students will be guided in creating what they want to create.
+  The heart of this pillar is to give students the experience of the enormous difficulty of creativity as well as overcoming that difficulty and emerging victorious over and over.
+  This pillar subsumes the following 'classic' subjects:
+  - Reading and writing
+  - Math
+  - Science
+  - Design and technology
+  - Art and design
+  - Computing
+  
+  And includes the following new subjects:
+  - Wood working
+  - 3D printing
+  - Electronics lab
+- **Wellness**
+  The heart of this pillar is to create a foundation of knowledge about personall wellness as well as experience of achieving it that can last the student's whole lifetime.
+  Students must somehow be taught how to *want* to eat well and *want* to stay fit.
+  More than that, students must be taught to love their own bodies and not be scared of them.
+  Mental health should also be touched on.
+  I have no idea how to achieve any of this.
+  This pillar subsumes the following 'classic' subjects:
+  - Physical education
+  - Relationships and health education
+  - Personal, social, and health education
+  - Sex education
+- **Electives**
+  Some things just have to be learned?
+  This pillar includes the following 'classic' subjects:
+  - Foreign languages
