@@ -71,7 +71,28 @@ An excellent curriculum probably can't make a terrible teacher good, but a terri
 The effects of design by committee at the top trickle down throughout the entire educational system and drive out or burn out innovators and visionaries.
 
 Fear not, for what can be broken with game theory can also be fixed with game theory.
+
 In the first place, conservatism in education doesn't make sense.
 An average student will go through dozens of different teachers in their journey.
 If all of those teachers are doing something innovative and interesting, even if half of them completely fail to teach effectively, there's still the other half that creates completely incredible experiences for the student.
-Just one such incredible experience with a teacher is enough to change a student's life.
+Just one such incredible experience with a teacher can be enough to change a student's life.
+Even the failed experiences can be valuable and meaningful because they're at least not soul-crushingly bland.
+Unlike machines that need carefully controlled external conditions, humans thrive in an environment with a diversity of experiences.
+
+From a game theory perspective, conservatism in curriculum design needs to be punished and innovation rewarded.
+First, the number of reviewers needs to be reduced.
+Second, the questions that are asked by reviewers when considering a proposed change to the curriculum should carry a bias towards innovation.
+
+Consider questions like:
+- Is this important knowledge?
+- Will this help students succeed in the 'real world'?
+- Is learning this foundational to learning other important things in the future?
+
+The above questions all sound innocuous enough, but carry a hidden bias towards conservatism and against innovation.
+It's impossible for ten people to agree that a truly innovative lesson is important knowledge, or will help the students succeed in the corporate rat race.
+It's certainly impossible for something truly innovative to be foundational for learning something else (for now).
+
+Instead, questions should be designed with a bias towards innovation. For example:
+- Is this lesson bland and/or soul-crushing?
+- Does this lesson uplift the students' spirits?
+- Is the heart of this lesson a new and interesting way to think about the world?
