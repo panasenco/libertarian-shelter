@@ -111,7 +111,6 @@ As explained above, a great educational experience can't be created by pleasing 
   Of course, they'll also learn how to counteract these factors and where to strike to shatter these systems.
   This pillar subsumes the following 'classic' subjects:
   - History
-  - Geography (the terror of geo-guessing, anyone?)
 
   And includes the following new subjects:
   - Psychology of manipulation and control
@@ -146,7 +145,7 @@ As explained above, a great educational experience can't be created by pleasing 
   - Relationships and health education
   - Personal, social, and health education
   - Sex education
-- **Electives**
-  Some things just have to be learned?
-  This pillar includes the following 'classic' subjects:
+- **Electives.**
+  'Classic' subjects that don't fit at all into the main three pillars:
+  - Geography
   - Foreign languages
